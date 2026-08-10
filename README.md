@@ -29,10 +29,6 @@ Computer Scientist passionate about building efficient solutions and constantly 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Status
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gminatel71-tech&layout=compact)
-
 ## 📌 Featured Projects
 
 - **[Data Structure](https://github.com/gminatel71-tech/Projeto-Estrutura-De-Dados-cpp)** — studying data structure and how it works with C++.
