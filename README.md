@@ -33,6 +33,7 @@ Computer Scientist passionate about building efficient solutions and constantly 
 
 - **[Data Structure](https://github.com/gminatel71-tech/Projeto-Estrutura-De-Dados-cpp)** — studying data structure and how it works with C++.
 - **[Matrix_2D+Binary_Search](https://github.com/gminatel71-tech/Projeto-Buscar-em-Matrizes)** — studying data structure for matrix (1D + 2D), more binary search in C++.
+- **[Procedures-Functions-CPP](https://github.com/gminatel71-tech/Procedures-Functions-CPP)** — studying functionalities and behaviors of the procedures/functions + pointers + references in C++ 
 
 ---
 
