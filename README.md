@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Gabriel Minatel 👋</h1>
-<h3 align="center">Computer Science Student | Software Developer | C++ & Web Development</h3>
+<h1 align="center">Olá, eu sou Gabriel Minatel 👋</h1>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor de Software | C++ & Desenvolvimento Web</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-gibertone-minatel-335b943a6/">
@@ -12,39 +12,39 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-Computer Science student passionate about building efficient, well-structured software. I focus on solid fundamentals (data structures, algorithms, memory management) and apply them in real projects, from C++ systems to interactive web applications.
+Estudante de Ciência da Computação apaixonado por construir software eficiente e bem estruturado. Foco em fundamentos sólidos (estruturas de dados, algoritmos, gerenciamento de memória) e os aplico em projetos reais, desde sistemas em C++ até aplicações web interativas.
 
-- 🎓 Computer Science, [University Name] ([expected graduation year])
-- 💻 Focus: software development, IT infrastructure and problem solving
-- 🌱 Currently learning: [e.g., TypeScript, Node.js, Docker, SQL]
-- 🌍 Languages: Portuguese (native), English ([level])
-- 🤝 Open to: internships, junior positions and collaboration on projects
-- 📍 Based in: São Paulo, Brazil | Open to remote work
-- 📫 Contact: [email] | [LinkedIn](https://www.linkedin.com/in/gabriel-gibertone-minatel-335b943a6/)
+- 🎓 Ciência da Computação, FAI - Centro Universitário de Adamantina (4 anos de formação)
+- 💻 Foco: desenvolvimento de software, infraestrutura de TI e resolução de problemas
+- 🌱 Aprendendo atualmente: [ex.: C++, JS, PHP]
+- 🌍 Idiomas: Português (nativo), Inglês (A2-B1)
+- 🤝 Aberto a: estágios, vagas júnior e colaboração em projetos
+- 📍 Localização: Adamantina, SP | Aberto a trabalho remoto
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/gabriel-gibertone-minatel-335b943a6/)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias & Ferramentas
 
-**Languages**
+**Linguagens**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks & Bibliotecas**
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-**Databases**
+**Banco de Dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+**Ferramentas & Plataformas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -52,59 +52,50 @@ Computer Science student passionate about building efficient, well-structured so
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projetos em Destaque
 
-### 🐖 [Hog Farm System](https://github.com/gminatel71-tech/Sistema-Granja-Suinos)
-Functional management system for a hog farm, built in C++.
+### 🐖 [Sistema Granja de Suínos](https://github.com/gminatel71-tech/Sistema-Granja-Suinos)
+Sistema funcional de gerenciamento para uma granja de suínos, desenvolvido em C++.
 - **Stack:** C++
-- **Concepts applied:** structs, pointers, modular sub-routines
-- **Highlights:** [e.g., register/list/update animals, data persistence, menu-driven interface]
+- **Conceitos aplicados:** structs, ponteiros, sub-rotinas modulares
+- **Destaques:** [ex.: cadastro/listagem/atualização de animais, persistência de dados, interface por menu]
 
-### 🎮 [JavaScript Web Game](https://github.com/gminatel71-tech/JavaScript-Web-Game)
-Interactive guessing game running in the browser, with dynamic interface updates.
-- **Stack:** HTML5, CSS3, Vanilla JavaScript
-- **Concepts applied:** DOM manipulation, event handling, game logic
-- 🔗 [Live Demo]([link, if deployed via GitHub Pages])
+### 🎮 [Jogo de Adivinhação em JavaScript](https://github.com/gminatel71-tech/JavaScript-Web-Game)
+Jogo interativo de adivinhação executado no navegador, com atualização dinâmica da interface.
+- **Stack:** HTML5, CSS3, JavaScript puro (Vanilla JS)
+- **Conceitos aplicados:** manipulação do DOM, tratamento de eventos, lógica de jogo
+- 🔗 [Demo online]([link, se publicado no GitHub Pages])
 
-### 🔎 [Matrix 2D + Binary Search](https://github.com/gminatel71-tech/Projeto-Buscar-em-Matrizes)
-Implementation of 1D/2D matrix operations and binary search in C++.
+### 🔎 [Matrizes 2D + Busca Binária](https://github.com/gminatel71-tech/Projeto-Buscar-em-Matrizes)
+Implementação de operações com matrizes 1D/2D e busca binária em C++.
 - **Stack:** C++
-- **Concepts applied:** arrays, matrices, search algorithms, time complexity O(log n)
+- **Conceitos aplicados:** vetores, matrizes, algoritmos de busca, complexidade O(log n)
 
-### ⚙️ [Procedures & Functions in C++](https://github.com/gminatel71-tech/Procedures-Functions-CPP)
-Practical study of procedures, functions, pointers and references.
+### ⚙️ [Procedimentos & Funções em C++](https://github.com/gminatel71-tech/Procedures-Functions-CPP)
+Estudo prático de procedimentos, funções, ponteiros e referências.
 - **Stack:** C++
-- **Concepts applied:** parameter passing (by value/reference), pointers, code modularization
+- **Conceitos aplicados:** passagem de parâmetros (por valor/referência), ponteiros, modularização de código
 
-### 🧱 [Data Structures in C++](https://github.com/gminatel71-tech/Projeto-Estrutura-De-Dados-cpp)
-Implementation of core data structures from scratch.
+### 🧱 [Estruturas de Dados em C++](https://github.com/gminatel71-tech/Projeto-Estrutura-De-Dados-cpp)
+Implementação de estruturas de dados fundamentais do zero.
 - **Stack:** C++
-- **Concepts applied:** [e.g., lists, stacks, queues, dynamic memory]
+- **Conceitos aplicados:** [ex.: listas, pilhas, filas, alocação dinâmica de memória]
 
 ---
 
-## 💼 Skills
+## 💼 Competências
 
-- **Programming:** C++, JavaScript, HTML5, CSS3
-- **Core CS:** data structures, algorithms, binary search, pointers, memory management, modular programming
-- **Web:** responsive design (Bootstrap), DOM manipulation, jQuery
-- **Databases:** relational databases, SQL with MySQL
-- **Tools:** Git, GitHub, VS Code
-- **Soft skills:** communication, teamwork, adaptability, continuous learning
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gminatel71-tech&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gminatel71-tech&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
+- **Programação:** C++, JavaScript, HTML5, CSS3
+- **Fundamentos de CC:** estruturas de dados, algoritmos, busca binária, ponteiros, gerenciamento de memória, programação modular
+- **Web:** design responsivo (Bootstrap), manipulação do DOM, jQuery
+- **Banco de dados:** bancos relacionais, SQL com MySQL
+- **Ferramentas:** Git, GitHub, VS Code
+- **Soft skills:** comunicação, trabalho em equipe, adaptabilidade, aprendizado contínuo
 
 ---
 
-## 📬 Let's Connect
+## 📬 Vamos Conversar
 
-I'm looking for opportunities to grow as a software developer and contribute to real projects. If you have a challenge where I can help, let's talk!
+Busco oportunidades para desenvolvedor de software e contribuir com projetos reais. Se você tem um desafio em que eu possa ajudar, vamos conversar!
 
-⭐️ From [gminatel71-tech](https://github.com/gminatel71-tech)
+⭐️ Por [gminatel71-tech](https://github.com/gminatel71-tech)
