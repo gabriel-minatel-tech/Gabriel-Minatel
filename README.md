@@ -21,7 +21,8 @@ Computer Scientist passionate about building efficient solutions and constantly 
 
 **Frameworks & Libraries**
 
-- None for now... 😑
+![Bootstrap](https://shields.io)
+![jQuery](https://shields.io)
 
 **Databases**
 
@@ -37,7 +38,8 @@ Computer Scientist passionate about building efficient solutions and constantly 
 - **[Data Structure](https://github.com/gminatel71-tech/Projeto-Estrutura-De-Dados-cpp)** — studying data structure and how it works with C++.
 - **[Matrix_2D+Binary_Search](https://github.com/gminatel71-tech/Projeto-Buscar-em-Matrizes)** — studying data structure for matrix (1D + 2D), more binary search in C++.
 - **[Procedures-Functions-CPP](https://github.com/gminatel71-tech/Procedures-Functions-CPP)** — studying functionalities and behaviors of the procedures/functions + pointers + references in C++
-- **[JavaScript-Web-Game](https://github.com/gminatel71-tech/JavaScript-Web-Game)** — studying and deploying with HTML + CSS3 + Vanilla JS a guessing game (using DOM Manipulation). 
+- **[JavaScript-Web-Game](https://github.com/gminatel71-tech/JavaScript-Web-Game)** — studying and deploying with HTML + CSS3 + Vanilla JS a guessing game (using DOM Manipulation).
+- **[Hog-Farm-System](https://github.com/gminatel71-tech/Sistema-Granja-Suinos)** — Functional system made in C++ for a Hog Farm, using programming techniques (Struct + Pointers + Sub-routines)
 
 ---
 
