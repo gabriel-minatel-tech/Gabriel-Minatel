@@ -64,7 +64,7 @@ Sistema funcional de gerenciamento para uma granja de suínos, desenvolvido em C
 Jogo interativo de adivinhação executado no navegador, com atualização dinâmica da interface.
 - **Stack:** HTML5, CSS3, JavaScript puro (Vanilla JS)
 - **Conceitos aplicados:** manipulação do DOM, tratamento de eventos, lógica de jogo
-- 🔗 [Demo online]([link, se publicado no GitHub Pages])
+- 🔗 [Demo online](não publicado)
 
 ### 🔎 [Matrizes 2D + Busca Binária](https://github.com/gminatel71-tech/Projeto-Buscar-em-Matrizes)
 Implementação de operações com matrizes 1D/2D e busca binária em C++.
