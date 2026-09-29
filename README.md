@@ -21,8 +21,8 @@ Computer Scientist passionate about building efficient solutions and constantly 
 
 **Frameworks & Libraries**
 
-![Bootstrap](https://shields.io)
-![jQuery](https://shields.io)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 **Databases**
 
