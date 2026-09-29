@@ -54,29 +54,29 @@ Estudante de Ciência da Computação apaixonado por construir software eficient
 
 ## 📌 Projetos em Destaque
 
-### 🐖 [Sistema Granja de Suínos](https://github.com/gminatel71-tech/Sistema-Granja-Suinos)
+### 🐖 [Sistema Granja de Suínos](https://github.com/gabriel-minatel-tech/Sistema-Granja-Suinos)
 Sistema funcional de gerenciamento para uma granja de suínos, desenvolvido em C++.
 - **Stack:** C++
 - **Conceitos aplicados:** structs, ponteiros, sub-rotinas modulares
 - **Destaques:** [ex.: cadastro/listagem/atualização de animais, persistência de dados, interface por menu]
 
-### 🎮 [Jogo de Adivinhação em JavaScript](https://github.com/gminatel71-tech/JavaScript-Web-Game)
+### 🎮 [Jogo de Adivinhação em JavaScript](https://github.com/gabriel-minatel-tech/JavaScript-Web-Game)
 Jogo interativo de adivinhação executado no navegador, com atualização dinâmica da interface.
 - **Stack:** HTML5, CSS3, JavaScript puro (Vanilla JS)
 - **Conceitos aplicados:** manipulação do DOM, tratamento de eventos, lógica de jogo
 - 🔗 [Demo online](não publicado)
 
-### 🔎 [Matrizes 2D + Busca Binária](https://github.com/gminatel71-tech/Projeto-Buscar-em-Matrizes)
+### 🔎 [Matrizes 2D + Busca Binária](https://github.com/gabriel-minatel-tech/Projeto-Buscar-em-Matrizes)
 Implementação de operações com matrizes 1D/2D e busca binária em C++.
 - **Stack:** C++
 - **Conceitos aplicados:** vetores, matrizes, algoritmos de busca, complexidade O(log n)
 
-### ⚙️ [Procedimentos & Funções em C++](https://github.com/gminatel71-tech/Procedures-Functions-CPP)
+### ⚙️ [Procedimentos & Funções em C++](https://github.com/gabriel-minatel-tech/Procedures-Functions-CPP)
 Estudo prático de procedimentos, funções, ponteiros e referências.
 - **Stack:** C++
 - **Conceitos aplicados:** passagem de parâmetros (por valor/referência), ponteiros, modularização de código
 
-### 🧱 [Estruturas de Dados em C++](https://github.com/gminatel71-tech/Projeto-Estrutura-De-Dados-cpp)
+### 🧱 [Estruturas de Dados em C++](https://github.com/gabriel-minatel-tech/Projeto-Estrutura-De-Dados-cpp)
 Implementação de estruturas de dados fundamentais do zero.
 - **Stack:** C++
 - **Conceitos aplicados:** [ex.: listas, pilhas, filas, alocação dinâmica de memória]
@@ -98,4 +98,4 @@ Implementação de estruturas de dados fundamentais do zero.
 
 Busco oportunidades para desenvolvedor de software e contribuir com projetos reais. Se você tem um desafio em que eu possa ajudar, vamos conversar!
 
-⭐️ Por [gminatel71-tech](https://github.com/gminatel71-tech)
+⭐️ Por [gabriel-minatel-tech](https://github.com/gabriel-minatel-tech)
