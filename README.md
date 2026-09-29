@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Gabriel Minatel 👋</h1>
+<h1 align="center">Gabriel Gibertone Minatel</h1>
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedor de Software | C++ & Desenvolvimento Web</h3>
 
 <p align="center">
